@@ -1,3 +1,7 @@
+[Install the Chrome extension here](https://chrome.google.com/webstore/detail/show-titles-in-x-formerly/kckhadoijmchkeomaphocmobgpgmbnek?hl=en&authuser=0)
+
+___
+
 # show-titles-in-twitter-links
 Show titles/headlines in X (formerly Twitter) links again.
 
